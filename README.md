@@ -76,7 +76,3 @@ To address these business challenges, I conducted a comprehensive car sales anal
 - Predictive analytics for sales forecasting
 - Advanced customer lifetime value analysis
 - Machine learning models for demand prediction
-
----
-
-*This project demonstrates the power of business intelligence in transforming raw data into actionable insights, driving data-informed decision making in the automotive sales industry.*
